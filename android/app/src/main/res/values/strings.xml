@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="api_key">ak-4b3cf654-ef36-4259-9f88-7d0eb4bd988b</string> <!--Your API Key from
+    
+portal-->
+
+ <string name="sdk_messaging">true</string> <!--Enable inbuilt
+Messaging-->
+ <string name="icon_folder">mipmap</string> <!--Notification icon
+folder-->
+ <string name="icon_name">ic_launcher</string> <!--Notification icon
+name-->
+ <string name="smisdk_start_vpn">true</string><!--Connect to vpn
+immediately-->
+
+
+
+</resources>  
